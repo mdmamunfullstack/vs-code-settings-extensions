@@ -14,3 +14,4 @@ Extensions
 12. Community Material Theme - Mattia Astorino
 13. Dracula Official -
 14. Diff Tool -- jinsihou
+15. codesnap --adpyke
